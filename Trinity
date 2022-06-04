@@ -5,6 +5,14 @@
     "author": "Fuse",
     "cover": "https://mangadex.org/covers/c8e83aab-43e8-425c-bd55-e7fa7fd666f7/48f73cbf-502b-4b33-80e1-b842e51f482b.jpg",
     "chapters": {
+        "43": {
+            "title": "Exciting New Duty",
+            "volume": "07",
+            "groups": {
+                "Manas": "/proxy/api/imgur/chapter/LPsDVz7/"
+            },
+            "last_updated":"1654310744"
+        },
         "42": {
             "title": "The gathering (part 3)",
             "volume": "07",
