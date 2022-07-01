@@ -5,6 +5,14 @@
     "author": "Fuse",
     "cover": "https://mangadex.org/covers/c8e83aab-43e8-425c-bd55-e7fa7fd666f7/48f73cbf-502b-4b33-80e1-b842e51f482b.jpg",
     "chapters": {
+        "44": {
+            "title": "The Departure",
+            "volume": "07",
+            "groups": {
+                "Manas": "/proxy/api/imgur/chapter/cZAc3QY/"
+            },
+            "last_updated":"1656649808"
+        },
         "43": {
             "title": "Exciting New Duty",
             "volume": "07",
