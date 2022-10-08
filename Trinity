@@ -5,6 +5,14 @@
     "author": "Fuse",
     "cover": "https://mangadex.org/covers/c8e83aab-43e8-425c-bd55-e7fa7fd666f7/48f73cbf-502b-4b33-80e1-b842e51f482b.jpg",
     "chapters": {
+        "46": {
+            "title": "Our First Human Country (part 1)",
+            "volume": "07",
+            "groups": {
+                "Manas": "/proxy/api/imgur/chapter/eiyysIB/"
+            },
+            "last_updated":"1663893727"
+        },
         "45": {
             "title": "The Departure (part 2) ",
             "volume": "07",
