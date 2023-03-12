@@ -5,6 +5,14 @@
     "author": "Fuse",
     "cover": "https://cdn.discordapp.com/attachments/886096114833580063/1050657064680169563/Trinty_in_Tempest_Volume_7_JP.jpg",
     "chapters": {
+        "52": {
+            "title": "Running Through Blumund (Part 5)",
+            "volume": "08",
+            "groups": {
+                "Manas": "/proxy/api/imgur/chapter/h4ZayDv/"
+            },
+            "last_updated":"1678591980"
+            },
         "51": {
             "title": "Running Through Blumund (Part 4)",
             "volume": "08",
