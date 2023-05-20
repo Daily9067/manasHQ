@@ -5,9 +5,17 @@
     "author": "Fuse",
     "cover": "https://cdn.discordapp.com/attachments/314852662271148034/1055549238299340870/Clayman_Revenge_Volume_1_JP.jpg",
     "chapters": {
+    "12": {
+            "title": "Beginning of War",
+            "volume": "3",
+            "groups": {
+                "❂ Manas": "/proxy/api/imgur/chapter/GDCx47R/"
+            },
+            "last_updated":"1684620900"
+            },
     "11": {
             "title": "Strategy",
-            "volume": "2",
+            "volume": "3",
             "groups": {
                 "❂ Manas": "/proxy/api/imgur/chapter/Z5osp55/"
             },
