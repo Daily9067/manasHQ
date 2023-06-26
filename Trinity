@@ -5,6 +5,14 @@
     "author": "Fuse",
     "cover": "https://cdn.discordapp.com/attachments/886096114833580063/1050657064680169563/Trinty_in_Tempest_Volume_7_JP.jpg",
     "chapters": {
+        "55": {
+            "title": "Practice in a Dream (Part 2)",
+            "volume": "08",
+            "groups": {
+                "Manas": "/proxy/api/imgur/chapter/UsDJyXn/"
+            },
+            "last_updated":"1687804860"
+            },
         "54": {
             "title": "Practice in a Dream (Part 1)",
             "volume": "08",
