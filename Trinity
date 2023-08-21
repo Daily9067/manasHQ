@@ -5,6 +5,14 @@
     "author": "Fuse",
     "cover": "https://cdn.discordapp.com/attachments/886096114833580063/1050657064680169563/Trinty_in_Tempest_Volume_7_JP.jpg",
     "chapters": {
+        "57": {
+            "title": "Trinity in Ingrassia (Part 2)",
+            "volume": "09",
+            "groups": {
+                "Manas": "/proxy/api/imgur/chapter/91A4tfk/"
+            },
+            "last_updated":"1692662040"
+            },
         "56": {
             "title": "Trinity in Ingrassia (Part 1)",
             "volume": "08",
