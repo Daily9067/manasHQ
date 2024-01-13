@@ -5,6 +5,22 @@
     "author": "Fuse",
     "cover": "https://i.imgur.com/JPSiZGl.jpg",
     "chapters": {
+        "59.5": {
+            "title": "Volume 9 Extras",
+            "volume": "09",
+            "groups": {
+                "Manas": "/proxy/api/imgur/chapter/oIA6F3l/"
+            },
+            "last_updated":"1705170660"
+            },
+        "59": {
+            "title": "Looming Crisis",
+            "volume": "09",
+            "groups": {
+                "Manas": "/proxy/api/imgur/chapter/2hVeEmF/"
+            },
+            "last_updated":"1705170660"
+            },
         "58": {
             "title": "Trinity in Ingrassia (Part 3)",
             "volume": "09",
