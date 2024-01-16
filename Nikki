@@ -6,6 +6,14 @@
     "character design": "Mitz Vah",
     "cover": "https://mangadex.org/covers/1180743d-8e38-4c00-b767-c53169fadc6a/4e76c85a-5fb6-4dfb-b840-da7c6f915658.jpg",
     "chapters": {
+        "61": {
+            "title": "Chapter",
+            "Diary No": "Read",
+            "groups": {
+                "❂ Manas": "/proxy/api/imgur/chapter/DRMdIv3/"
+            },
+            "last_updated":"1705376400"
+        },
         "60": {
             "title": "Chapter",
             "Diary No": "Read",
