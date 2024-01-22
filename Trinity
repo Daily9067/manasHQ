@@ -5,6 +5,14 @@
     "author": "Fuse",
     "cover": "https://i.imgur.com/JPSiZGl.jpg",
     "chapters": {
+        "60": {
+            "title": "Battle in The Snow",
+            "volume": "10",
+            "groups": {
+                "Manas": "/proxy/api/imgur/chapter/9hVlM4U/"
+            },
+            "last_updated":"1705957140"
+            },
         "59.5": {
             "title": "Volume 9 Extras",
             "volume": "09",
